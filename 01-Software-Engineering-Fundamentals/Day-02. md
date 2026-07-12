@@ -1,0 +1,360 @@
+📅 Day 02 – Software Development Life Cycle (SDLC)
+
+🎯 Today's Goal
+
+Understand what Software Development Life Cycle (SDLC) is, why it is important, and learn all its phases with real-world examples.
+
+---
+
+🤔 Why Do We Need SDLC?
+
+Imagine a client asks you to build a School Management App.
+
+If you immediately open VS Code and start coding without understanding the project, you may face many problems:
+
+- ❌ Wrong features
+- ❌ Poor planning
+- ❌ Wasted time
+- ❌ Extra development cost
+- ❌ Unhappy client
+
+To avoid these problems, software companies follow a proper development process called Software Development Life Cycle (SDLC).
+
+---
+
+📖 What is SDLC?
+
+Software Development Life Cycle (SDLC) is a structured process used to plan, design, develop, test, deploy, and maintain software.
+
+In simple words,
+
+«SDLC is a roadmap that guides software from an idea to a finished product.»
+
+Instead of randomly writing code, developers follow well-defined steps.
+
+---
+
+🏗️ Real-Life Analogy
+
+Imagine you are building a house.
+
+You don't start by painting the walls.
+
+The correct order is:
+
+- Planning
+- Designing
+- Building
+- Checking
+- Handing over
+- Maintenance
+
+Software development follows the same idea.
+
+---
+
+🔄 SDLC Flow
+
+Idea
+   │
+   ▼
+Planning
+   │
+   ▼
+Requirement Analysis
+   │
+   ▼
+System Design
+   │
+   ▼
+Development (Coding)
+   │
+   ▼
+Testing
+   │
+   ▼
+Deployment
+   │
+   ▼
+Maintenance
+
+Every successful software project follows these phases.
+
+---
+
+📌 Phase 1 – Planning
+
+Purpose
+
+Planning is the first stage of SDLC.
+
+The team discusses:
+
+- What problem needs to be solved?
+- Is this project feasible?
+- How much time will it take?
+- What is the estimated budget?
+- Which technologies will be used?
+- How many developers are required?
+
+Example
+
+Suppose you want to build a School Management App.
+
+During planning, the team decides:
+
+- Flutter or Native?
+- Firebase or MySQL?
+- Android only or Android + iOS?
+- Expected completion time
+- Team size
+
+Without proper planning, projects often fail.
+
+---
+
+📌 Phase 2 – Requirement Analysis
+
+This is one of the most important phases.
+
+Developers communicate with the client to understand exactly what the software should do.
+
+Example Requirements
+
+- Student Login
+- Teacher Login
+- Attendance
+- Homework
+- Fee Management
+- Notices
+- Results
+
+If the requirements are misunderstood, the entire project may need to be rebuilt.
+
+---
+
+📌 Phase 3 – System Design
+
+After understanding the requirements, the team creates the software blueprint.
+
+This phase answers questions like:
+
+- How many screens will the app have?
+- Which database will be used?
+- How will APIs work?
+- What architecture will be followed?
+- How will users navigate through the app?
+
+This phase focuses on designing before coding.
+
+---
+
+📌 Phase 4 – Development
+
+This is the coding phase.
+
+Developers convert the design into a working application.
+
+Tasks include:
+
+- Writing code
+- Building UI
+- Connecting APIs
+- Managing databases
+- Implementing business logic
+
+This is the phase most beginners think is the entire software development process, but it is only one part of SDLC.
+
+---
+
+📌 Phase 5 – Testing
+
+Once development is complete, the software is tested carefully.
+
+The testing team checks:
+
+- Bugs
+- Crashes
+- Incorrect calculations
+- Performance issues
+- Security problems
+
+The goal is to ensure the software works correctly before users receive it.
+
+---
+
+📌 Phase 6 – Deployment
+
+Deployment means releasing the software for users.
+
+Examples include:
+
+- Publishing an Android app on Google Play Store
+- Publishing an iOS app on the App Store
+- Deploying a website to a server
+
+Now users can access the software.
+
+---
+
+📌 Phase 7 – Maintenance
+
+Software development does not end after deployment.
+
+Maintenance includes:
+
+- Fixing bugs
+- Adding new features
+- Improving performance
+- Updating security
+- Supporting new devices
+
+Example
+
+WhatsApp regularly releases updates with bug fixes and new features.
+
+That is the Maintenance phase.
+
+---
+
+🌍 Real-World Example
+
+Let's apply SDLC to a School Management App.
+
+Client Idea
+      │
+      ▼
+Planning
+      │
+      ▼
+Requirement Analysis
+      │
+      ▼
+System Design
+      │
+      ▼
+Flutter Development
+      │
+      ▼
+Testing
+      │
+      ▼
+Google Play Store
+      │
+      ▼
+Updates & Bug Fixes
+
+This is how professional software is built.
+
+---
+
+⭐ Advantages of SDLC
+
+- Better planning
+- Higher software quality
+- Easier teamwork
+- Reduced development cost
+- Faster bug detection
+- Easier maintenance
+- Better customer satisfaction
+
+---
+
+💡 Best Practices
+
+- Never start coding without understanding the problem.
+- Gather complete requirements.
+- Create a design before implementation.
+- Test thoroughly before release.
+- Keep improving the software after deployment.
+
+---
+
+⚠️ Common Beginner Mistakes
+
+- Starting coding immediately
+- Ignoring client requirements
+- Skipping planning
+- Not testing properly
+- No documentation
+- Stopping work after deployment
+
+---
+
+🎤 Interview Notes
+
+Q1. What is SDLC?
+
+Answer:
+
+Software Development Life Cycle (SDLC) is a systematic process used to plan, design, develop, test, deploy, and maintain software efficiently.
+
+---
+
+Q2. What are the phases of SDLC?
+
+1. Planning
+2. Requirement Analysis
+3. System Design
+4. Development
+5. Testing
+6. Deployment
+7. Maintenance
+
+---
+
+Q3. Which phase comes before coding?
+
+Answer:
+
+System Design.
+
+Planning and Requirement Analysis are completed before designing the system.
+
+---
+
+📝 Key Takeaways
+
+- SDLC provides a structured approach to software development.
+- Coding is only one phase of the complete development process.
+- Planning and Requirement Analysis are critical for project success.
+- Testing ensures software quality.
+- Maintenance keeps software useful even after release.
+
+---
+
+📚 New Terms Learned
+
+Term| Meaning
+SDLC| Software Development Life Cycle
+Planning| Deciding project scope, budget, and timeline
+Requirement Analysis| Understanding client needs
+System Design| Creating the software blueprint
+Development| Writing the code
+Testing| Finding and fixing defects
+Deployment| Releasing software to users
+Maintenance| Updating and improving software after release
+
+---
+
+🎯 Mini Exercise
+
+Without writing any code, apply SDLC to an Expense Tracker App.
+
+Write down:
+
+- Planning
+- Requirements
+- Design
+- Development
+- Testing
+- Deployment
+- Maintenance
+
+Think like a Software Engineer instead of a programmer.
+
+---
+
+💬 Quote of the Day
+
+«"Great software is not created by writing code first. It is created by understanding the problem first."»
