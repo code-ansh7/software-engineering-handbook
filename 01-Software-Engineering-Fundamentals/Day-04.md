@@ -1,5 +1,5 @@
 📅 Day 04 – Functional Requirements vs Non-Functional Requirements
-
+ 
 🎯 Today's Goal 
 
 Understand the two major types of software requirements:
