@@ -126,7 +126,28 @@ Become a Software Engineer who can:
 * High-Level Design
 
 ---
+## Roadmap
 
+| Module                                  | Days       |
+| --------------------------------------- | ---------- |
+| ✅ 01. Software Engineering Fundamentals | **6 Days** |
+| 02. Software Development Models         | 4 Days     |
+| 03. Project Management                  | 3 Days     |
+| 04. Software Design                     | 3 Days     |
+| 05. Software Architecture               | 8–10 Days  |
+| 06. Version Control (Git & GitHub)      | 7–8 Days   |
+| 07. Clean Code                          | 6 Days     |
+| 08. Design Patterns                     | 12–15 Days |
+| 09. Software Testing                    | 8 Days     |
+| 10. Debugging                           | 5 Days     |
+| 11. Databases                           | 10 Days    |
+| 12. REST APIs                           | 8 Days     |
+| 13. System Design                       | 12–15 Days |
+| 14. DevOps Basics                       | 6 Days     |
+| 15. Case Studies                        | Ongoing    |
+
+
+---
 ## 📂 Repository Structure
 
 ```text
