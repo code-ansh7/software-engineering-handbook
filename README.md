@@ -3,7 +3,7 @@
 > **A complete beginner-to-professional Software Engineering handbook with detailed notes, diagrams, real-world examples, interview insights, and developer best practices.**
 
 ---
-
+ 
 ## 📖 About This Repository
 
 Welcome to **Software Engineering Handbook**.
